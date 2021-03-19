@@ -53,9 +53,10 @@
           <div class="lesson">
             <div class="lesson-icon">
               <img src="https://prog-8.com/images/html/advanced/html.png">
-              <p>HTML & CSS</p>
+              <p>Monitor</p>
             </div>
-            <p class="text-contents">Languages used to build and design the appearances of your websites. HTML adds the structure, and CSS styles it.</p>
+            <p class="text-contents">Komputer biasanya dihubungkan pada peranti display, juga dikenal sebagai 
+monitor. Monitor ditunjukkan dalam Gambar ..</p>
           </div>
           <div class="lesson">
             <div class="lesson-icon">
