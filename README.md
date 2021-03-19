@@ -61,23 +61,25 @@ monitor. Monitor ditunjukkan dalam Gambar ..</p>
           <div class="lesson">
             <div class="lesson-icon">
               <img src="https://prog-8.com/images/html/advanced/jQuery.png">
-              <p>jQuery</p>
+              <p>Printer</p>
             </div>
-            <p class="text-contents">A fast, feature-rich and easy-to-use JavaScript library that handles animations and Ajax requests.</p>
+            <p class="text-contents">Printer adalah perangkat Output yang digunakan untuk menghasilkan cetakan 
+dari komputer ke dalam bentuk kertas</p>
           </div>
           <div class="lesson">
             <div class="lesson-icon">
               <img src="https://prog-8.com/images/html/advanced/ruby.png">
-              <p>Ruby</p>
+              <p>Speaker</p>
             </div>
-            <p class="text-contents">A dynamic, general-purpose language that is simple and productive. It is commonly used around the world to build web applications.</p>
+            <p class="text-contents">Speaker adalah perangkat keras untuk menghsailkan suara</p>
           </div>
           <div class="lesson">
             <div class="lesson-icon">
               <img src="https://prog-8.com/images/html/advanced/php.png">
-              <p>PHP</p>
+              <p>Proyektor</p>
             </div>
-            <p class="text-contents">An open source scripting language that can be embedded into HTML, and well suited for web development.</p>
+            <p class="text-contents">Infocus atau juga disebut proyektor merupakan alat digunakan untuk presentasi, 
+yangdihubungkankekomputer untuk menampilkan apa yang ada pada monitor ke suatu screen (layar) ataupun dinding.</p>
           </div>
           <div class="clear"></div>
         </div>
